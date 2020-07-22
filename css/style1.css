@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+.top-content {
+    margin: 5vw;
+    border-bottom: 2px solid black;
+    padding-bottom: 5vw;
+}
+
+.top-text {
+  display: inline-block;
+  width: 60vw;
+}
+
+.bottom-text {
+  margin: 5vw;
+}

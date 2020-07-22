@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+.container-3 {
+  display: inline-flex;
+  margin: 2vw;
+}
+
+.text-layout-2 {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.duck2 {
+  margin: 2vw;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+.duck3 {
+  margin: 2vw;
+  padding: 5px;
+  border: 2px solid black;
+}
