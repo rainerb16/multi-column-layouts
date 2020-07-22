@@ -1,11 +1,19 @@
+html {
+  font-size: 12px;
+}
+
 h1 {
   text-align: center;
 }
 
+p {
+  font-size: 1.5em;
+}
+
 .top-content {
-    margin: 5vw;
-    border-bottom: 2px solid black;
-    padding-bottom: 5vw;
+  margin: 5vw;
+  border-bottom: 2px solid black;
+  padding-bottom: 5vw;
 }
 
 .top-text {
@@ -15,4 +23,16 @@ h1 {
 
 .bottom-text {
   margin: 5vw;
+  font-size: 2rem;
+  max-width: 50%;
+}
+
+.last-content {
+  margin: 5vh;
+  text-align: center;
+}
+
+.last-text {
+  font-size: 14pt;
+  text-align: center;
 }
